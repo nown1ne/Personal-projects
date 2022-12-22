@@ -1,4 +1,4 @@
-# finance-club-pi
+# Personal Projects and Merged Pull Requests
 A collection of my personal projects and merged pull requests.
 ## type-speed (https://github.com/nown1ne/type-speed)
 A HTML, CSS, Javasciprt web app that tests your typing speed.      
